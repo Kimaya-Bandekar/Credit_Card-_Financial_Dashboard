@@ -1,2 +1,2 @@
 # Credit_Card-_Financial_Dashboard
-PowerBi_Dashboard
+Credit Card Transaction and Customer Dashboard using Power BI
